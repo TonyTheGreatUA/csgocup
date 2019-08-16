@@ -1,0 +1,2 @@
+# csgocup
+CSGO Chinese Cup
